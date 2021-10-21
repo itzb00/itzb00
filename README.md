@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzb00
+- 👋 Hi, I’m Anthony Morse
 - 👀 I’m interested in learning everything I can about programming and computer science
 - 🌱 I’m currently learning Software Development, Agile and Waterfall
 - 💞️ I’m looking to collaborate on Java projects
